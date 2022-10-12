@@ -1,4 +1,7 @@
-#Originally modified to work with Mac OS Monterey. Compatible with: Thinkpad T450s, T450, X250, and 3rd Gen X1 Carbon.
+Based off of: https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore
+If you need an indepth explanation about anything, check the above link first.
+
+Originally modified to work with Mac OS Monterey. Compatible with: Thinkpad T450s, T450, X250, and 3rd Gen X1 Carbon.
 
 What works: Everything besides VGA. Touchscreen support on 3rd gen X1 Carbon. SD-card slot also works without any issue.
 
