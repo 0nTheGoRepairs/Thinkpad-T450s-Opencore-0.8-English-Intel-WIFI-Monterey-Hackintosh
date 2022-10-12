@@ -1,4 +1,4 @@
-Originally modified to work with Mac OS Monterey. Compatible with: Thinkpad T450s, T450, X250, and 3rd Gen X1 Carbon.
+This EFI was based on CLAY-BIOS's excellent work, found here: https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore/blob/master/README-English.md and was modified to work with Mac OS Monterey. Compatible with: Thinkpad T450s, T450, X250, and 3rd Gen X1 Carbon.
 
 What works: Everything besides VGA. Touchscreen support on 3rd gen X1 Carbon. SD-card slot also works without any issue.
 
@@ -11,7 +11,7 @@ What’s been changed:
 
 This EFI has only been tested with Monterey and Catalina. 
 
-If you have any questions, you can get in touch with me at: Mark@OTGRepairs.net, or on Messages at: otgr340@yahoo.com
+If you have any questions, first checkout the Github linked at the top, if you still have issues then you can get in touch with me at: Mark@OTGRepairs.net, or on Messages at: otgr340@yahoo.com
 
 Good Luck!
 
