@@ -13,6 +13,7 @@ What’s been changed:
 4. ThinkPad Assistant not included. All of the function keys for T450/s and X1 Carbon work perfectly as it is, and I wanted to reduce clutter. Other files such as Lenovo Wallpapers and DW1820a driver are also not included.
 5. Added support for Android USB tethering, so that you can now tether your cellphone to the hackintosh (with USB), and enjoy faster speeds. The HoRNDIS driver that was added is supported by Catalina, Big Sur, Monterey, and most likely older Mac OS. This kext does not interfere with any of the other kexts, and works perfectly.
 This EFI has only been tested with Monterey and Catalina, but should work fine with Big Sur.
+6. Added service manuals for all compatible Thinkpad laptops.
 
 If you have any questions, you can get in touch with me at: Mark@OTGRepairs.net, or on Messages at: otgr340@yahoo.com
 
