@@ -3,7 +3,7 @@ Modified to work better with Mac OS Monterey.
 
 This EFI was based on CLAY-BIOS's excellent work, found here: https://github.com/CLAY-BIOS/Lenovo-ThinkPad-T450s-Hackintosh-OpenCore/blob/master/README-English.md and was modified to work with Mac OS Monterey. 
 
-What works: Everything besides VGA. Touchscreen support. SD-card slot also works without any issue, etc.
+What works: Everything besides VGA. Touchscreen and SD-card work as well.
 
 What’s been changed:
 
