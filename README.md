@@ -15,7 +15,7 @@ What’s been changed:
 This EFI has only been tested with Monterey and Catalina, but should work fine with Big Sur.
 6. Added service manuals for all compatible Thinkpad laptops.
 
-If you have any questions, you can get in touch with me at: Mark@OTGRepairs.net, or on Messages at: otgr340@yahoo.com
+If you have any questions, you can get in touch with me by email at: Mark@OTGRepairs.net, or on Messages at: otgr340@gmail.com
 
 Good Luck!
 
